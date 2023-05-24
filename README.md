@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning android, web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me igusmas619@gmail.com
+- 📫 How to reach me indosamudra7@gmail.com
 
 <!---
 indogusmas/indogusmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
